@@ -3,7 +3,7 @@ import numpy as np
 import os
 from PIL import Image
 
-path = "data/fullpage"
+path = "data/original"
 data = os.listdir(path=path)
 flg = 1
 
