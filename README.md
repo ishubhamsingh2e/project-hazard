@@ -3,6 +3,8 @@ It a API for game **joking hazard** it will generate fun story picking random ca
 
 API is LIVE!!🔴 here 👉 https://sb2001nov.pythonanywhere.com
 
+Add out bot to your server from [here](https://discord.com/api/oauth2/authorize?client_id=969899538141835274&permissions=515466718272&scope=bot)
+
 On a get request it will git you 3 links of images for each card have a equal probability of occurance except the 3rd card, there is a 10% chance of getting a red card by default.
 
 <p float="left">
