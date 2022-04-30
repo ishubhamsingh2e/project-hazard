@@ -25,6 +25,7 @@ API have 2 variables
 
 ### Red
 Red is a bool value by default set to 0, if you chage it to 1 it will always return a red card.
+0 is 10% chance by default
 
 ### Chance
 - Chance by default is set to 10, it specifies the probability of getting a red
