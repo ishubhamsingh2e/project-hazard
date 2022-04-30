@@ -2,9 +2,9 @@
 Project hazard is a group of project using our custom made API, API will return 3 images telling a story.
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/60.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/65.jpg" width="200" /> 
-  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/225.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/60.jpg" width="150" />
+  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/65.jpg" width="150" /> 
+  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/225.jpg" width="150" />
 </p>
 
 We are planing to make muntiple things with this API currently we have only a discord bot and our API
