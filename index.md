@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## What is this?
+Project hazard is a group of project using our custom made API, API will return 3 images telling a story.
 
-You can use the [editor on GitHub](https://github.com/ishubhamsingh2e/project-hazard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/60.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/65.jpg" width="200" /> 
+  <img src="https://raw.githubusercontent.com/ishubhamsingh2e/project-hazard/main/data/card/225.jpg" width="200" />
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are planing to make muntiple things with this API currently we have only a discord bot and our API
 
-### Markdown
+### Discord
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It's a bot to tell a fun little story add to you discord server by clicking here 👉 [🔘](https://discord.com/api/oauth2/authorize?client_id=969899538141835274&permissions=515466718272&scope=bot)
 
 ```markdown
-Syntax highlighted code block
+To call the bot on your serve type *story or *hazard
+or to get a red car for sure type *story red or *hazard red
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+it will output a image like this
 ```
+![image](https://user-images.githubusercontent.com/43581470/166107060-bc23378a-186f-400a-8109-62b459b343f7.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Suport
+it a opensuource project made by students so it can ge offilne  so plese understand for any problem contact
 
-### Jekyll Themes
+For help [ishubhamsingh2e@gmail.com](ishubhamsingh2e@gmail.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ishubhamsingh2e/project-hazard/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please star⭐ and folk🍴 also
